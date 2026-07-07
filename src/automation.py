@@ -38,7 +38,8 @@ def process_customers(driver, customers):
     for customer in tqdm(
         customers,
         desc="Processing Customers",
-        colour="green"
+        colour="green",
+        ncols=80,
     ):
 
         try:

@@ -1,10 +1,21 @@
-from src.config import APP_NAME, VERSION
+import platform
+
 
 def show_banner():
-    print("=" * 60)
-    print(APP_NAME.center(60))
-    print("=" * 60)
-    print("Author  : Danu Setiawan")
-    print(f"Version : {VERSION}")
-    print("GitHub  : github.com/danusetiawan14")
-    print("=" * 60)
+    print()
+    print("╔══════════════════════════════════════════════════════════════╗")
+    print("║                                                              ║")
+    print("║        🚀 PYTHON SELENIUM FORM AUTOMATION v1.0.0            ║")
+    print("║                                                              ║")
+    print("╚══════════════════════════════════════════════════════════════╝")
+    print()
+
+    print("👨‍💻 Developer : Danu Setiawan")
+    print(f"🖥️  Platform  : {platform.system()}")
+    print(f"🐍 Python     : {platform.python_version()}")
+    print("🌐 Selenium   : Chrome WebDriver")
+    print("📂 Project    : selenium-form-automation")
+
+    print()
+    print("════════════════════════════════════════════════════════════════")
+    print()
