@@ -258,6 +258,15 @@ https://danusetiawan14.github.io/portfolio-website/
 
 ---
 
+## Business Use Cases
+
+- Customer Registration Automation
+- HR Form Automation
+- Insurance Form Processing
+- CRM Data Entry
+- QA Testing
+- Internal Office Automation
+
 # 📜 License
 
 MIT License
