@@ -267,6 +267,22 @@ https://danusetiawan14.github.io/portfolio-website/
 - QA Testing
 - Internal Office Automation
 
+---
+
+## Key Skills Demonstrated
+
+✔ Selenium WebDriver
+✔ Excel Automation
+✔ Python Programming
+✔ Browser Automation
+✔ Logging
+✔ Error Handling
+✔ Modular Architecture
+✔ Clean Code
+✔ Git Workflow
+
+---
+
 # 📜 License
 
 MIT License
